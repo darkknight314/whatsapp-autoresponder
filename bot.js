@@ -58,8 +58,6 @@ const client = new Client({
 });
 
 const IGNORED_NUMBERS = [
-  '918530296092',
-  '917619008007'	
 ];
 
 
