@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+.wwebjs_auth/
+.wwebjs_cache/
+node_modules/
+package-lock.json
+monitor.log
+system_prompt.txt
+.env
